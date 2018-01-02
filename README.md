@@ -14,3 +14,5 @@ You have to install `gnuplot` to generate an output.png.
 # plotScript
 `gnuplot plotScript` will create an image where you can replace with the net*.csv file.
 
+# gnuplot.sh
+`./gnuplot.sh` will automatically execute `gnuplot plotScript` and open the output.png.
